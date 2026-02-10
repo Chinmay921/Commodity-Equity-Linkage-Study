@@ -33,7 +33,7 @@ This research investigates how crude oil price fluctuations impact Indian transp
 
 ---
 
-## 🔬 Methodology
+## Methodology
 
 **Data Sources:**
 - MCX Crude Oil Futures

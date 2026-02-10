@@ -1,4 +1,4 @@
-# 📊 Commodity-Equity Linkage Study
+# Commodity-Equity Linkage Study
 
 **Analyzing the Relationship between Crude Oil Prices and Indian Transportation Stocks**
 
@@ -8,7 +8,7 @@
 
 ---
 
-## 🎯 Overview
+## Overview
 
 This research investigates how crude oil price fluctuations impact Indian transportation and energy sector equities. Using advanced econometric techniques, the study examines whether oil price movements systematically affect stock returns of companies with high fuel cost exposure.
 
@@ -20,7 +20,7 @@ This research investigates how crude oil price fluctuations impact Indian transp
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 ├── Commodity_Analysis.ipynb          # Main analysis notebook
@@ -52,7 +52,7 @@ This research investigates how crude oil price fluctuations impact Indian transp
 
 ---
 
-## 📊 Key Findings
+## Key Findings
 
 ### Sector-Specific Results:
 
@@ -69,7 +69,7 @@ This research investigates how crude oil price fluctuations impact Indian transp
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Python 3.12**: Core language
 - **Pandas/NumPy**: Data manipulation
@@ -78,39 +78,10 @@ This research investigates how crude oil price fluctuations impact Indian transp
 - **yFinance**: Market data
 - **KiteConnect API**: Indian stock data
 
----
-
-## 📈 Sample Visualizations
-
-**Correlation Heatmap:**
-
-![Correlation Matrix](fig_6_correlation_heatmap.png)
-
-**Rolling Correlation (60-day window):**
-
-![Rolling Correlation](fig_5_rolling_correlation.png)
-
-**Cumulative Abnormal Returns (Event Study):**
-
-![CAR Analysis](fig_10_event_study_car.png)
 
 ---
 
-## 🚀 Getting Started
-
-### Prerequisites
-```bash
-pip install pandas numpy matplotlib seaborn statsmodels yfinance kiteconnect scipy
-```
-
-### Run Analysis
-```bash
-jupyter notebook Commodity_Analysis.ipynb
-```
-
----
-
-## 📄 Citation
+## Citation
 
 If you use this research, please cite:
 ```
@@ -120,14 +91,14 @@ between Crude Oil Prices and Indian Transportation Stocks. GitHub Repository.
 
 ---
 
-## 📧 Contact
+## Contact
 
 **Author:** Chinmay Dongarkar  
 **Institution:** SSODL & DTU  
 
 ---
 
-## 📜 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
